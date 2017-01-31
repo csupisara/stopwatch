@@ -3,7 +3,7 @@
 I ran the tasks on a MacBook Pro, and got these results:
 
 Task														| Time
-----------------------------------------|--------------------------
+----------------------------------------|--------------------------:
 Append 50,000 chars to String		|0.942719 sec
 Append 100,000 chars to String		|3.025188 sec
 Append 100,000 chars to StringBuilder	|0.002077 sec	
